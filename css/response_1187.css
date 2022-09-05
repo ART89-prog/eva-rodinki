@@ -1,0 +1,47 @@
+@media print, (max-width: 1230px) {
+    .prev-link strong, 
+    .next-link strong,
+    footer .index-link {
+        font-size: 48px;
+    }
+}
+
+
+
+
+@media print, (max-width: 1187px) {
+
+    :root {
+        --font_size_title: 30px;
+    }
+    .first-section_title {
+        font-size: 67px;
+        max-width: 520px;
+        width: 100%;
+        margin-top: -260px;
+        margin-left: 260px;
+    }
+    .first-section_text {
+        margin: 120px auto 0;
+    }
+    .tabs_container {
+        padding: 60px 0 40px;
+    }
+    .prev-link, 
+    .next-link {
+        width: 350px;
+        height: 350px;
+    }
+    footer .holder {
+        padding: 105px 0 197px;
+        background: #fff;
+    }
+
+    
+
+
+
+
+
+
+}

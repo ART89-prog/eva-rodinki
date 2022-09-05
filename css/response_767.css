@@ -1,0 +1,111 @@
+@media print, (max-width: 767px) {
+
+    :root
+    {
+        --font_size: 19px;
+        --font_size_title: 25px;
+    }
+    .header_logo img {
+        width: 150px;
+        height: auto;
+    }
+    .header_logo a {
+        width: auto;
+    }
+    .slogan {
+        font: normal 19px/37px 'Open Sans';
+        width: 189px;
+        height: 36px;
+        color: #fff;
+        padding-left: 30px;
+    }
+    header {
+        padding-top: 40px;
+        margin-bottom: 32px;
+    }
+    .first-section_title {
+        font-size: 26px;
+        max-width: 250px;
+        margin-top: -113px;
+        margin-left: 139px;
+    }
+    .first-section_text {
+        margin: 75px auto 0;
+        padding-right: 0;
+        padding-left: 0;
+        font-size: 22px;
+    }
+    .tabs_container {
+        padding: 35px 0 35px;
+    }
+    .tabs_icon img {
+        width: 140px;
+        height: auto;
+    }
+    .tabs button {
+        height: auto;
+        padding: 47px 30px;
+    }
+    .text-block h2 {
+        font-size: 29px;
+        margin-bottom: 17px;
+        margin-top: 30px;
+    }
+    .text-block img {
+        margin: 13px auto 0px;
+    }
+    .text-block p {
+        margin-bottom: 15px;
+    }
+    .text-block ol li {
+        margin-bottom: 15px;
+    }
+    .text-block ul li {
+        margin-bottom: 15px;
+    }
+    .text-block ol {
+        padding-left: 18px;
+        margin-top: 18px;
+        margin-bottom: 18px;
+    }
+    .text-block ul {
+        margin-top: 18px;
+        margin-bottom: 18px;
+    }
+    .text-block .footnote {
+        font-size: 28px;
+        line-height: 1.2;
+        margin: 35px auto 35px;
+    }
+    .prev-link strong, 
+    .next-link strong, 
+    footer .index-link {
+        font-size: 23px;
+    }
+    .prev-link, .next-link {
+        width: 180px;
+        height: 180px;
+        padding: 40px 16px;
+    }
+    .next-link span {
+        font-size: 15px;
+    }
+    footer .holder {
+        padding: 78px 0 79px;
+    }
+    .text-block blockquote {
+        padding-left: 20px;
+        font-size: 18px;
+        line-height: 127%;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .header_logo {
+        margin-left: 0px;
+    }
+
+    
+
+
+  
+}
