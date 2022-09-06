@@ -1,101 +1,17 @@
 @media (max-width: 479px) {
 
-    :root
-    {
-        --font_size: 22px;
-        --font_size_title: 26px;
+    .consultant_photo {
+        width: 100%;
+        height: auto;
     }
-    .first-section_title {
-        font-size: 36px;
-        max-width: 310px;
-        margin-top: 25px;
-        margin-left: 20px;
-        line-height: 90%;
-        font-weight: 700;
+    .image_mob.w100 {
+        width: 100%;
     }
-    .header_logo img {
-        width: 133px;
+    .image_mob.bg {
+        padding-left: 20px;
+        padding-right: 20px;
     }
-    .slogan {
-        font: normal 16px/32px 'Open Sans';
-        width: 152px;
-        padding-left: 16px;
-    }
-    .header_logo a {
-        margin-right: 12px;
-    }
-    .first-section_text {
-        margin: 28px auto 0;
-        font-weight: 500;
-        font-size: 24px;
-    }
-    .tabs button {
-        flex-direction: column;
-    }
-    .tabs button .tabs_title {
-        font-size: 24px;
-        margin-left: 0px;
-        max-width: 100%;
-        text-align: center;
-        margin-top: 30px;
-    }
-    .text-block h2 {
-        font-size: 27px;
-    }
-    .text-block h2 br {
-        display: none;
-    }
-    .text-block h3 {
-        margin-bottom: 18px;
-        margin-top: 20px;
-    }
-    .text-block blockquote {
-        padding-left: 12px;
-        font-size: 17px;
-        line-height: 122%;
-        margin-top: 15px;
-        margin-bottom: 15px;
-    }
-    .prev-link strong, 
-    .next-link strong {
-        font-size: 19px;
-    }
-    .prev-link, .next-link {
-        width: 123px;
-        height: 139px;
-        padding: 25px 15px;
-    }
-    .next-link span {
-        font-size: 12px;
-        margin-top: 10px;
-        align-items: center;
-    }
-    .next-link span svg {
-        width: 35px;
-        padding-top: 5px;
-        padding-left: 5px;
-    }
-    footer .holder {
-        padding: 52px 0 64px;
-    }
-    .text-block ul li:before {
-        width: 4px;
-        height: 4px;
-        top: 9px;
-    }
-    .text-block ul li {
-        margin-bottom: 15px;
-        padding-left: 11px;
-    }
-    .text-block ol {
-        padding-left: 11px;
-        margin-top: 15px;
-        margin-bottom: 15px;
-    }
-    .text-block .footnote {
-        font-size: 25px;
-    }
-   
+ 
 
 
 
