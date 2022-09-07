@@ -5,10 +5,14 @@
         --font_size_title: 24px;
     }
     .header_logo a:nth-child(1) img {
-        width: 80px;
+        width: 85px;
     }
     .header_logo a:nth-child(2) img {
-        width: 180px;
+        width: 164px;
+    }
+    header {
+        padding-top: 8px;
+        margin-bottom: 9px;
     }
     .first-section_title {
         font-size: 60px;
@@ -99,6 +103,8 @@
     .text-block {
         margin-bottom: 30px;
     }
+
+
 
 
 

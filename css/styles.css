@@ -470,6 +470,9 @@ header .cont {
     margin-bottom: 26px;
     display: block;
 }
+.consultant_name br {
+    display: none;
+}
 .consultant .link {
     text-decoration: none;
     display: flex;

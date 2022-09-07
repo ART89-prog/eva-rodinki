@@ -9,11 +9,11 @@
         height: 222px;
     }
     .image_mob.w100 {
-        width: 100%;
+        width: 177px;
     }
     .image_mob.bg {
-        padding-left: 20px;
-        padding-right: 20px;
+        padding-left: 91px;
+        padding-right: 91px;
     }
     .first-section_title {
         font-size: 39px;
@@ -92,7 +92,14 @@
     .first-section_img {
         margin-left: -20px;
     }
-
+    .consultant_name br {
+        display: block;
+    }
+    .first-section {
+        background: url(../images/first_section_bg_mob.jpg);
+        background-position: center top;
+        background-size: cover;
+    }
  
 
 
