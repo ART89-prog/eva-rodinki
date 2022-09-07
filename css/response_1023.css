@@ -25,8 +25,9 @@
         background: none;
     }
     .consultant {
-        background: url(../images/background_mobile.jpg);
-        padding: 113px 0 130px;
+        background: url(../images/background_mobile.gif);
+        background-size: cover;
+        padding: 70px 0 80px;
         margin-left: -20px;
         margin-right: -20px;
         padding-left: 20px;
@@ -35,8 +36,8 @@
         align-items: center;
     }
     .consultant_photo {
-        width: 405px;
-        height: 510px;
+        width: 210px;
+        height: 264px;
         margin-right: 0px;
     }
     .consultant_box {

@@ -1,8 +1,12 @@
 @media (max-width: 479px) {
 
+    :root {
+        --font_size: 18px;
+        --font_size_title: 23px;
+    }
     .consultant_photo {
-        width: 100%;
-        height: auto;
+        width: 176px;
+        height: 222px;
     }
     .image_mob.w100 {
         width: 100%;
@@ -11,6 +15,84 @@
         padding-left: 20px;
         padding-right: 20px;
     }
+    .first-section_title {
+        font-size: 39px;
+        line-height: 1;
+        margin-bottom: 33px;
+    }
+    .test_text {
+        font-size: 15px;
+        margin-bottom: 16px;
+        line-height: 1.2;
+    }
+    .test_link a {
+        width: 204px;
+        height: 48px;
+        font-size: 21px;
+        border-radius: 8px;
+    }
+    .consultant {
+        padding: 49px 20px 57px;
+    }
+    .consultant_text, 
+    .consultant_name {
+        font-size: 18px;
+    }
+    .consultant_box {
+        margin-top: 20px;
+    }
+    .consultant_name {
+        margin-bottom: 20px;
+    }
+    .text-block h2 {
+        font-size: 24px;
+        margin-bottom: 26px;
+    }
+     .text-block h3:before {
+        width: 44px;
+        height: 38px;
+        background: url(../images/title_bg_mob.png);
+        font-size: 27px;
+        line-height: 1;
+        padding-top: 18px;
+        background-repeat: no-repeat;
+    }
+    .text-block h3 {
+        padding-bottom: 20px;
+        padding-top: 26px;
+    }
+    .text-block .test_text {
+        font-size: 31px;
+        margin-bottom: 13px;
+    }
+    .consultant .link {
+        width: 258px;
+        height: 48px;
+        font-size: 22px;
+        border-radius: 9px;
+    }
+    .footnote {
+        margin-top: 26px;
+        margin-bottom: 17px;
+        font-size: 21px;
+    }
+    .footer_text {
+        font-size: 9px;
+    }
+    footer {
+        padding-bottom: 24px;
+    }
+    .first-section_img2 {
+        display: none !important;
+    }
+    .first-section_img-mob {
+        display: block;
+        width: 100%;
+    }
+    .first-section_img {
+        margin-left: -20px;
+    }
+
  
 
 
