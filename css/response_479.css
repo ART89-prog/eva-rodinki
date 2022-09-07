@@ -97,7 +97,7 @@
     }
     .first-section {
         background: url(../images/first_section_bg_mob.jpg);
-        background-position: center top;
+        background-position: center 80%;
         background-size: cover;
     }
  
